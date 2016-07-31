@@ -12,7 +12,7 @@ echo `git status`
 echo `git commit -m "changes were made"`
 
 #push to github remote repo
-echo `git push -u origin master
+echo `git push -u origin master`
 
 
 
