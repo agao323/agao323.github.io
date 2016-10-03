@@ -8,6 +8,9 @@ hr.star-light:after {
 }
 
 hr.star-primary:after {
+	background-color: #337ab7;
+}
+section.success {
 	background-color: rgba(182, 221, 255, 0.52);
 }
 
@@ -20,5 +23,5 @@ hr.star-primary:after {
 }
 
 body {
-	background-color: rgba(182, 221, 255, 0.52);
+	background-color: #337ab7;
 }
