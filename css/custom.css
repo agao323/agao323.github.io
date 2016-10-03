@@ -7,6 +7,10 @@ hr.star-light:after {
 	background-color: #337ab7;
 }
 
+hr.star-primary:after {
+	background-color: rgba(182, 221, 255, 0.52);
+}
+
 .row {
 	margin-bottom: 30px;
 }
