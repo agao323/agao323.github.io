@@ -1,5 +1,8 @@
+
 header {
-
     background: #337ab7;
+}
 
+hr.star-light:after {
+  background-color: #337ab7;
 }
