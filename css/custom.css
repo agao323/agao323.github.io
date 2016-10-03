@@ -4,7 +4,7 @@ header {
 }
 
 hr.star-light:after {
-  background-color: #337ab7;
+	background-color: #337ab7;
 }
 
 .row {
@@ -13,4 +13,8 @@ hr.star-light:after {
 
 .row-special {
 	margin-bottom: 0px;
+}
+
+.portfolio-container {
+	background-color: #337ab7;
 }
