@@ -9,7 +9,7 @@ echo `git add .`
 echo `git status`
 
 # commit the files
-echo `git commit -m "changes were made"`
+echo `git commit -m "updated css"`
 
 #push to github remote repo
 echo `git push -u origin master`
