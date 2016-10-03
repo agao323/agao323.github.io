@@ -15,6 +15,6 @@ hr.star-light:after {
 	margin-bottom: 0px;
 }
 
-.portfolio {
-	background-color: #337ab7;
+body {
+	background-color: rgba(182, 221, 255, 0.52);
 }
