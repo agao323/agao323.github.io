@@ -8,9 +8,9 @@ hr.star-light:after {
 }
 
 .row {
-	margin-bottom: 30px;
+	margin-bottom: 0px;
 }
 
 .row-special {
-	margin-bottom: 0px;
+	margin-bottom: 30px;
 }
