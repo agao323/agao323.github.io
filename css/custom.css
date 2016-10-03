@@ -10,3 +10,7 @@ hr.star-light:after {
 .row {
 	margin-bottom: 30px;
 }
+
+.row-special {
+	margin-bottom: 0px;
+}
