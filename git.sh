@@ -9,7 +9,7 @@ echo `git add .`
 echo `git status`
 
 # commit the files
-echo `git commit -m "Changed the footer icons"`
+echo `git commit -m "Updated the website"`
 
 #push to github remote repo
 echo `git push -u origin master`
