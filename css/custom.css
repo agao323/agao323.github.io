@@ -12,6 +12,7 @@ hr.star-primary:after {
 }
 section.success {
 	background-color: rgba(182, 221, 255, 0.52);
+	color: black;
 }
 
 .row {
