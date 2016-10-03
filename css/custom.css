@@ -7,6 +7,10 @@ hr.star-light:after {
   background-color: #337ab7;
 }
 
-.row-special {
+.row {
 	margin-bottom: 30px;
+}
+
+.row-special {
+	margin-bottom: 0px;
 }
